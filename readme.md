@@ -1,8 +1,8 @@
 # @cute-me-on-repos/tini-async-input
 ## A component using in The TIKI Tini App Platform
 This is a High performace input component for Tiki Mini Applet (Tini App Platform) that supports keyboard autocomplete modes
-
-[preview and comparing]('./preview-and-comparing.gif')
+ 
+![preview and comparing](https://github.com/cute-me-on-repos/tini-async-input/blob/main/preview-and-comparing.gif?raw=true)
 
 ## Usage
 
