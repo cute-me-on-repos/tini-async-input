@@ -1,0 +1,10 @@
+{
+  "name": "@cute-me-on-repos/tini-async-input",
+  "version": "1.0.0",
+  "description": "High performace input component for Tiki Mini Applet (Tini App Platform) that supports keyboard autocomplete modes",
+  "main": "index.js",
+  "files": ["index.js","index.json","index.txml"],
+  "author": "Thien Ly - lyluongthien1002@gmail.com",
+  "license": "MIT",
+  "private": false
+}
